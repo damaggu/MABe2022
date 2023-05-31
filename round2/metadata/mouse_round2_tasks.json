@@ -1,0 +1,2 @@
+{"seeds": [42], "task_id_list": ["experiment_day", "time_of_day", "strain", "lights"],
+"sequence_level_tasks": ["experiment_day", "time_of_day", "strain", "lights"]}

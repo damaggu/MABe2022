@@ -1,0 +1,2 @@
+{"seeds": [42], "task_id_list": ["reapplied", "gasterless", "locc", "locc_applied", "histerid", "nitidulid", "platy", "thethered", "grooming_self", "grooming_object", "exploring_alone", "exploring_object", "idle_alone", "idle_object", "duration", "grooming_self_same", "grooming_object_same", "exploring_alone_same", "exploring_object_same", "idle_alone_same", "idle_object_same"],
+"sequence_level_tasks": ["reapplied", "gasterless", "locc", "locc_applied", "histerid", "nitidulid", "platy", "thethered"]}
